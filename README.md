@@ -1,6 +1,8 @@
 # Desktop-Laptop
 The repo for a kind of dumb, kind of smart idea - shoving a watercooled desktop computer into a custom carry case to make a powerful, modular and upgradeable laptop.
+I decided to do this as I needed a powerful, modular but portable computer, so a normal computer just wasn't going to cut it. (neccesity drives innovation right?)
 
+I went through several versions which can be found in the version logs, and am currently developing version 4.
 I'm currently logging my work with Hackclub as I'm trying to get a grant to make my final version but I'll make a comprehensive project folder here once that is done.
 
 
