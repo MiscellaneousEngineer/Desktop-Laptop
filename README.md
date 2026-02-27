@@ -6,6 +6,11 @@ I went through several versions which can be found in the version logs, and am c
 I'm currently logging my work with Hackclub as I'm trying to get a grant to make my final version but I'll make a comprehensive project folder here once that is done.
 
 
+CAD renders of Version 4
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/26443272-5af6-4937-b8c8-b2842c15b3f3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/189e5bed-498b-4926-9645-583138f0590d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/aa199b7d-2922-4442-87ec-ee1d8cbfb7e3" />
 
 
 
