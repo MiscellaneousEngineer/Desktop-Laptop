@@ -5,6 +5,7 @@ I decided to do this as I needed a powerful, modular but portable computer, so a
 I went through several versions which can be found in the version logs, and am currently developing version 4.
 I'm currently logging my work with Hackclub as I'm trying to get a grant to make my final version but I'll make a comprehensive project folder here once that is done.
 
+No CAD files yet as I'm still very actively working on the current cad model.
 
 CAD renders of Version 4
 
